@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_601f3e0f4f47a37d0aafc52fb9e964e36e8b33f3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hakanyar\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_7e1a884a1cfde6f5fd3a127048e0dfe601675ee9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hakanyar\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_9cbfefa4faa733be339114766e7c8be39b4c5628\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hakanyar\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_6f5f2654a3837ca9ee6ce19f74bc6f3ba39b730c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_d707972fa6e3e8d5add4c3d673d849d84bced288\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hakanyar\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.3.1_8d1e78cd10611e8042a926447b219315a162dd4d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="07e498c8e75d0e59b192b92d25b6a91255422ce7">
+        <dex dex="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_54e91bb8d4170ee91241e09fb36260aed4ab0fa5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b75eea8f58280e938a915b7a6fcaa69a80c3c871">
+        <dex dex="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4ae33fe60a6a49e1dfa9bd74c683b71a07381bfd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hakanyar\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.3.1_4a47029308f5a5b15c4a12959499c8e54f9485ac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hakanyar\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_e58c5ad94d6604a837c231219f1a387441056e83\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hakanyar\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.11_1fa9bc8fadafd6fad1b45d9475c0ac5fd7efa980\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="hdpi"
+    format="7"
+    timestamp="18362125071434"
+    token="-8861521649681685646" >
+
+    <task
+        name="javac"
+        duration="517" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="111" />
+    <task
+        name="verifier"
+        duration="44" />
+
+    <artifact
+        location="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="18362125071434" >
+        <artifact
+            location="C:\Users\hakanyar\Desktop\All\1.Projeler\Android Projeler\Vibrate APK\Vibration Apk Main\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
