@@ -6,10 +6,11 @@
     android:gravity="center"
     android:orientation="vertical"
     android:screenOrientation="portrait"
-    tools:ignore="HardcodedText"
     android:weightSum="1"
     android:baselineAligned="false"
     android:clickable="false"
+    tools:ignore="HardcodedText"
+
     >
 
     <TextView

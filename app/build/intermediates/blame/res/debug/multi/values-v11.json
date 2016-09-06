@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\hakanyar\\Desktop\\All\\1.Projeler\\Android Projeler\\Vibrate APK\\Vibration Apk Main\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "outputFile": "C:\\Users\\hakanyar\\Documents\\GitHub\\QAvibrationTest\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 113
                 },
                 "from": {
-                    "file": "C:\\Users\\hakanyar\\Desktop\\All\\1.Projeler\\Android Projeler\\Vibrate APK\\Vibration Apk Main\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "C:\\Users\\hakanyar\\Documents\\GitHub\\QAvibrationTest\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

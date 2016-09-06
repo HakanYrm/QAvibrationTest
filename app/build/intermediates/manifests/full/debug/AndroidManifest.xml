@@ -22,7 +22,7 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.prgguru.android.VibratorQA"
-            android:label="@string/title_activity_vibrator_example" >
+            android:label="@string/title_activity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
